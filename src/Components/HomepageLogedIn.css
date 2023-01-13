@@ -1,0 +1,731 @@
+
+.HomepageLogedIn_HomepageLogedIn {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.HomepageLogedIn_HomepageLogedIn .Rectangle22 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 3160.5px;
+}
+.HomepageLogedIn_HomepageLogedIn .Rectangle25 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 180px;
+	background: rgba(43,41,42,1.00);
+}
+.HomepageLogedIn_HomepageLogedIn .Rectangle27 {
+	position: absolute;
+	left: 0px;
+	top: 2836.5px;
+	width: 1440px;
+	height: 324px;
+	background: rgba(43,41,42,1.00);
+}
+.HomepageLogedIn_HomepageLogedIn .peakpx1 {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	width: 1440px;
+	height: 765.75px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .peakpx2 {
+	position: absolute;
+	left: 0px;
+	top: 180px;
+	width: 1440px;
+	height: 765.75px;
+	background: rgba(0,0,0,0.33);
+}
+.HomepageLogedIn_HomepageLogedIn ._21 {
+	position: absolute;
+	left: 90px;
+	top: 72.75px;
+	width: 179.25px;
+	height: 45px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Group2 {
+	position: absolute;
+	left: 396.75px;
+	top: 69px;
+	width: 479.25px;
+	height: 61.5px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group2 .Rectangle23 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 479.25px;
+	height: 61.5px;
+	background: rgba(38,38,38,1.00);
+	border-radius: 6px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group2 .SearchforGames {
+	position: absolute;
+	left: 20.25px;
+	top: 19.5px;
+	width: 132px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 500;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group2 .search41 {
+	position: absolute;
+	left: 435px;
+	top: 18.75px;
+	width: 24px;
+	height: 24px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Group2 .Line1 {
+	position: absolute;
+	left: 414.75px;
+	top: 0px;
+	width: 0px;
+	height: 61.5px;
+	border: 1px solid rgba(255,255,255,1);
+}
+.HomepageLogedIn_HomepageLogedIn .SECUREDMARKETPLACEFORGAMERS {
+	position: absolute;
+	left: 396.75px;
+	top: 516.75px;
+	width: 646.5px;
+	height: 117px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 58.51199913024902px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group5 {
+	position: absolute;
+	left: 90px;
+	top: 1347.75px;
+	width: 169.5px;
+	height: 48px;
+	border-radius: 3.75px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group5 .Rectangle24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 169.5px;
+	height: 48px;
+	background: rgba(250,6,8,1.00);
+	border-radius: 3.75px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group5 .LearnMore {
+	position: absolute;
+	left: 36.75px;
+	top: 14.25px;
+	width: 96px;
+	height: 20.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 16.5px;
+	font-weight: 600;
+	line-height: 20.1134991645813px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group4 {
+	position: absolute;
+	left: 598.5px;
+	top: 677.25px;
+	width: 243.65625px;
+	height: 69px;
+	border-radius: 5.25px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group4 .Rectangle24_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 243.65625px;
+	height: 69px;
+	background: rgba(250,6,8,1.00);
+	border-radius: 5.25px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group4 .BrowseGames {
+	position: absolute;
+	left: 46.5px;
+	top: 22.5px;
+	width: 150.75px;
+	height: 24px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 19.5px;
+	font-weight: 600;
+	line-height: 23.77050018310547px;
+}
+.HomepageLogedIn_HomepageLogedIn .WhatisPlayefic {
+	position: absolute;
+	left: 618.75px;
+	top: 1057.5px;
+	width: 203.25px;
+	height: 29.25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.25599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn ._2590507011 {
+	position: absolute;
+	left: 938.25px;
+	top: 1179px;
+	width: 339.75px;
+	height: 327px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Rectangle26 {
+	position: absolute;
+	left: 0px;
+	top: 1506px;
+	width: 1440px;
+	height: 537px;
+	background: rgba(6,28,70,1.00);
+}
+.HomepageLogedIn_HomepageLogedIn .LoremIpsumissimplydummytextoftheprintingandtypesettingindustryLoremIpsumhasbeentheindustrysstandarddummytexteversincethe1500swhenanunknownprintertookagalleyoftypeandscrambledittomakeatypespecimenbookIthassurvivednotonlyfivecenturiesbutalsotheleapintoelectronictypesettingremainingessentiallyunchangedItwaspopularisedinthe1960swiththereleaseofLetrasetsheetscontainingLoremIpsumpassagesandmorerecentlywithdesktoppublishingsoftwarelikeAldusPageMakerincludingversionsofLoremIpsum {
+	position: absolute;
+	left: 90px;
+	top: 1179px;
+	width: 661.5px;
+	height: 141.75px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 20.459999084472656px;
+}
+.HomepageLogedIn_HomepageLogedIn .WhyUs {
+	position: absolute;
+	left: 671.25px;
+	top: 1581.75px;
+	width: 97.5px;
+	height: 29.25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.25599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group11 {
+	position: absolute;
+	left: 106.5px;
+	top: 1686.75px;
+	width: 362.25px;
+	height: 243.75px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group11 .LoremIpsumissimplydummytextoftheprintingandtypesettingindustryLoremIpsumhasbeentheindustrysstandarddummytexteversincethe1500swhenanunknownprintertookagalleyoftypeandscrambledittomakeaty {
+	position: absolute;
+	left: 0px;
+	top: 142.5px;
+	width: 362.25px;
+	height: 101.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 20.459999084472656px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group11 .Group7 {
+	position: absolute;
+	left: 80.25px;
+	top: 0px;
+	width: 202.5px;
+	height: 115.5px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group11 .Group7 .protection {
+	position: absolute;
+	left: 69px;
+	top: 0px;
+	width: 64.5px;
+	height: 64.5px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Group11 .Group7 .SecureTransactions {
+	position: absolute;
+	left: 0px;
+	top: 91.5px;
+	width: 202.5px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 19.5px;
+	font-weight: 600;
+	line-height: 23.77050018310547px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group9 {
+	position: absolute;
+	left: 539.25px;
+	top: 1686.75px;
+	width: 362.25px;
+	height: 258.75px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group9 .LoremIpsumissimplydummytextoftheprintingandtypesettingindustryLoremIpsumhasbeentheindustrysstandarddummytexteversincethe1500swhenanunknownprintertookagalleyoftypeandscrambledittomakeaty_1 {
+	position: absolute;
+	left: 0px;
+	top: 157.5px;
+	width: 362.25px;
+	height: 101.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 20.459999084472656px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group9 .Group8 {
+	position: absolute;
+	left: 88.5px;
+	top: 0px;
+	width: 186px;
+	height: 115.5px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group9 .Group8 .customerservice1 {
+	position: absolute;
+	left: 60.75px;
+	top: 0px;
+	width: 64.5px;
+	height: 64.5px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Group9 .Group8 .CustomerSupport {
+	position: absolute;
+	left: 0px;
+	top: 91.5px;
+	width: 186px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 19.5px;
+	font-weight: 600;
+	line-height: 23.77050018310547px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group10 {
+	position: absolute;
+	left: 972px;
+	top: 1695.75px;
+	width: 362.25px;
+	height: 234.75px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group10 .LoremIpsumissimplydummytextoftheprintingandtypesettingindustryLoremIpsumhasbeentheindustrysstandarddummytexteversincethe1500swhenanunknownprintertookagalleyoftypeandscrambledittomakeaty_2 {
+	position: absolute;
+	left: 0px;
+	top: 133.5px;
+	width: 362.25px;
+	height: 101.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 20.459999084472656px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group10 .Group6 {
+	position: absolute;
+	left: 125.25px;
+	top: 0px;
+	width: 111.75px;
+	height: 110.25px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group10 .Group6 .bestoffer {
+	position: absolute;
+	left: 24px;
+	top: 0px;
+	width: 64.5px;
+	height: 64.5px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Group10 .Group6 .BestOffers {
+	position: absolute;
+	left: 0px;
+	top: 86.25px;
+	width: 111.75px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 19.5px;
+	font-weight: 600;
+	line-height: 23.77050018310547px;
+}
+.HomepageLogedIn_HomepageLogedIn .StartTradingToday {
+	position: absolute;
+	left: 530.25px;
+	top: 2161.5px;
+	width: 380.25px;
+	height: 44.25px;
+	color: rgba(250,6,8,1.00);
+	font-family: Montserrat;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 43.88400077819824px;
+}
+.HomepageLogedIn_HomepageLogedIn .PopularGames {
+	position: absolute;
+	left: 627.75px;
+	top: 2262.75px;
+	width: 192px;
+	height: 29.25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.25599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .ezgif16c1f1f486c {
+	position: absolute;
+	left: 90px;
+	top: 2405.25px;
+	width: 369px;
+	height: 369px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 11.25px;
+}
+.HomepageLogedIn_HomepageLogedIn .ezgif16c1f1f486c_1 {
+	position: absolute;
+	left: 535.5px;
+	top: 2405.25px;
+	width: 369px;
+	height: 369px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 11.25px;
+}
+.HomepageLogedIn_HomepageLogedIn .ezgif16c1f1f486c_2 {
+	position: absolute;
+	left: 981px;
+	top: 2405.25px;
+	width: 369px;
+	height: 369px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 11.25px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group22 {
+	position: absolute;
+	left: 515.25px;
+	top: 2920.5px;
+	width: 111.75px;
+	height: 160.5px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group22 .About {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 46.5px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group22 .Careers {
+	position: absolute;
+	left: 0px;
+	top: 34.5px;
+	width: 57px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group22 .HowitWorks {
+	position: absolute;
+	left: 0px;
+	top: 69px;
+	width: 102px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group22 .PriceDatabase {
+	position: absolute;
+	left: 0px;
+	top: 103.5px;
+	width: 111.75px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group22 .Press {
+	position: absolute;
+	left: 0px;
+	top: 138px;
+	width: 41.25px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group23 {
+	position: absolute;
+	left: 873px;
+	top: 2920.5px;
+	width: 105.75px;
+	height: 160.5px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group23 .TernsofUse {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 93px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group23 .FAQ {
+	position: absolute;
+	left: 0px;
+	top: 34.5px;
+	width: 33px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group23 .PriivacyPolicy {
+	position: absolute;
+	left: 0px;
+	top: 69px;
+	width: 105.75px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group23 .Disclamier {
+	position: absolute;
+	left: 0px;
+	top: 103.5px;
+	width: 78px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group23 .ContactUs {
+	position: absolute;
+	left: 0px;
+	top: 138px;
+	width: 81.75px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group24 {
+	position: absolute;
+	left: 1224.75px;
+	top: 3010.5px;
+	width: 126px;
+	height: 66px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group24 .FollowUs {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 75px;
+	height: 22.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Nunito;
+	font-size: 16.5px;
+	font-weight: 400;
+	line-height: 22.50599956512451px;
+}
+.HomepageLogedIn_HomepageLogedIn .Group24 .facebook21 {
+	position: absolute;
+	left: 0px;
+	top: 48px;
+	width: 18px;
+	height: 18px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Group24 .twitter1 {
+	position: absolute;
+	left: 36px;
+	top: 48px;
+	width: 18px;
+	height: 18px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Group24 .instagram11 {
+	position: absolute;
+	left: 72px;
+	top: 48px;
+	width: 18px;
+	height: 18px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Group24 .linkedin1 {
+	position: absolute;
+	left: 108px;
+	top: 48px;
+	width: 18px;
+	height: 18px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Ellipse1 {
+	position: absolute;
+	left: 1119.75px;
+	top: 63px;
+	width: 67.5px;
+	height: 67.5px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	background-size: cover;
+}
+.HomepageLogedIn_HomepageLogedIn .JasonRoy {
+	position: absolute;
+	left: 1197.75px;
+	top: 63px;
+	width: 86.25px;
+	height: 20.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 16.5px;
+	font-weight: 600;
+	line-height: 20.1134991645813px;
+}
+.HomepageLogedIn_HomepageLogedIn ._8 {
+	position: absolute;
+	left: 1229.25px;
+	top: 101.25px;
+	width: 9.75px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 18.28499937057495px;
+}
+.HomepageLogedIn_HomepageLogedIn ._8_1 {
+	position: absolute;
+	left: 1284px;
+	top: 101.25px;
+	width: 9.75px;
+	height: 18px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 18.28499937057495px;
+}
+.HomepageLogedIn_HomepageLogedIn .bell3 {
+	position: absolute;
+	left: 1197.75px;
+	top: 99px;
+	width: 24px;
+	height: 23.25px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .mail3 {
+	position: absolute;
+	left: 1251px;
+	top: 99px;
+	width: 23.25px;
+	height: 23.25px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomepageLogedIn_HomepageLogedIn .Ellipse2 {
+	position: absolute;
+	left: 1212.75px;
+	top: 99px;
+	width: 5.25px;
+	height: 5.25px;
+	background: rgba(250,6,8,1.00);
+	border-radius: 50%;
+}
+.HomepageLogedIn_HomepageLogedIn .Ellipse3 {
+	position: absolute;
+	left: 1271.25px;
+	top: 99px;
+	width: 5.25px;
+	height: 5.25px;
+	background: rgba(250,6,8,1.00);
+	border-radius: 50%;
+}
+.HomepageLogedIn_HomepageLogedIn .downarrow11 {
+	position: absolute;
+	left: 1328.25px;
+	top: 63px;
+	width: 21.75px;
+	height: 21.75px;
+	object-fit: cover;
+	overflow: hidden;
+}
